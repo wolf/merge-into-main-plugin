@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wolf.mergeintomainplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wolf.mergeintomainplugin.MyBundle
 
 class MyApplicationService {
 
